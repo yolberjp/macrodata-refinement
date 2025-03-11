@@ -1,0 +1,19 @@
+.left-flap {
+    position: absolute;
+    top: -4px;
+    left: -4px;
+    width: 50%;
+    height: 4px;
+    background-color: red;
+    transform-origin: "0% 100%"
+}
+
+.right-flap {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    width: 50%;
+    height: 4px;
+    background-color: blue;
+
+}

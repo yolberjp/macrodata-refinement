@@ -5,7 +5,7 @@ import Storage from './components/Storage/Storage';
 function App() {
 
   const fileID = "0x136D60 : 0x09A4D1"
-  const storageIds = ['1', '2', '3', '4']
+  const storageIds = ['1', '2', '3', '4', '5']
 
   return (
     <div className="flex flex-col justify-between w-full max-w-4xl xl:max-w-7xl aspect-[6/4] rounded-[80px] border-6  overflow-hidden bg-gray-950">
